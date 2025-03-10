@@ -1,8 +1,17 @@
 class Solution {
     
-    func isAnagram(_ s: String, _ t: String) -> Bool {
-        sortApproach(s, t)
-//        counterApproach(s, t)
+    enum Approaches: CaseIterable {
+        case sort
+        case counter
+    }
+    
+    func isAnagram(_ s: String, _ t: String, approach: Approaches) -> Bool {
+        switch approach {
+        case .sort:
+            return sortApproach(s, t)
+        case .counter:
+            return counterApproach(s, t)
+        }
     }
     
     func sortApproach(_ s: String, _ t: String) -> Bool {
