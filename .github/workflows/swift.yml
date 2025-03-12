@@ -16,6 +16,6 @@ jobs:
           swift-version: ${{ matrix.swift }}
       - uses: actions/checkout@v4
       - name: Build
-        run: find . -name "Package.swift" -execdir sh -c 'swift build || exit 1' \;
+        run: find . -name ".build" -prune -o -name "Package.swift" -execdir sh -c 'swift build || exit 1' \;
       - name: Run tests
-        run: find . -name "Package.swift" -execdir sh -c 'swift test || exit 1' \;
+        run: find . -name ".build" -prune -o -name "Package.swift" -execdir sh -c 'swift test || exit 1' \;
