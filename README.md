@@ -2,7 +2,7 @@
 
 [![Swift Package Build and Tests](https://github.com/DominatorVbN/neetcode/actions/workflows/swift.yml/badge.svg)](https://github.com/DominatorVbN/neetcode/actions/workflows/swift.yml)
 
-![Progress](https://progress-bar.xyz/11/?scale=150&title=Solved&width=200&color=babaca&prefix=Solved &suffix= out of 150)
+![Progress](https://progress-bar.xyz/11/?scale=150&title=Solved&width=200&color=babaca&prefix=Solved &suffix=%20out%20of%20150)
 
 ## Array
 
