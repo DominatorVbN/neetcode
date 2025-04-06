@@ -20,4 +20,4 @@
 
 ## Stack
 
-[Valid Parentheses](Stack/ValidParentheses)
+- [Valid Parentheses](Stack/ValidParentheses)
