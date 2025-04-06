@@ -16,4 +16,5 @@
 
 - [Valid Palindrome](TwoPointers/ValidPalindrome)
 - [Two Sum II](TwoPointers/TwoSumII)
+- [3 Sum](TwoPointers/ThreeSomeProblem)
 
