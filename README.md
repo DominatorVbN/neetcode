@@ -1,6 +1,6 @@
 # Neetcode
 
-[![Swift Package Build and Tests](https://github.com/DominatorVbN/neetcode/actions/workflows/swift.yml/badge.svg)](https://github.com/DominatorVbN/neetcode/actions/workflows/swift.yml)
+[![Swift Package Build and Tests](https://github.com/DominatorVbN/neetcode/actions/workflows/swift.yml/badge.svg)](https://github.com/DominatorVbN/neetcode/actions/workflows/swift.yml)![Progress](https://progress-bar.xyz/7?title=11/150)
 
 ## Array
 
