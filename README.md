@@ -1,6 +1,6 @@
 # Neetcode
 
-[![Swift Package Build and Tests](https://github.com/DominatorVbN/neetcode/actions/workflows/swift.yml/badge.svg)](https://github.com/DominatorVbN/neetcode/actions/workflows/swift.yml) ![Progress](https://progress-bar.xyz/15/?scale=150&title=Solved&width=200&color=babaca&prefix=Solved%20&suffix=%20Out%20Of%20150) 
+[![Swift Package Build and Tests](https://github.com/DominatorVbN/neetcode/actions/workflows/swift.yml/badge.svg)](https://github.com/DominatorVbN/neetcode/actions/workflows/swift.yml) ![Progress](https://progress-bar.xyz/16/?scale=150&title=Solved&width=200&color=babaca&prefix=Solved%20&suffix=%20Out%20Of%20150) 
 
 ## Array
 
@@ -25,3 +25,7 @@
 - [Reverse Polish Notation](Stack/ReversePolishNotation)
 - [Generate Parentheses](Stack/GenerateParentheses)
 - [DailyTemperatures](Stack/DailyTemperatures)
+
+## Binary Search
+
+- [Binary Search](BinarySearch/BinarySearch)
